@@ -25,4 +25,4 @@ const updateCounter = () => {
 };
 
 // Bind debounce function to the button's click event
-button.on("click", debounce(updateCounter, 200));
+button.on("click", debounce(updateCounter, 500));
