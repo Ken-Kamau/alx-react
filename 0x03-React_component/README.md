@@ -1,1 +1,1 @@
-## 0x02. React props
+## 0x03. React components
